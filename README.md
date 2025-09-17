@@ -1,5 +1,5 @@
 # MLOps Assignment 1 – Model Training, Tracking & Registration
-
+Note: All the ss are in doc file
 📌 Problem Statement
 The goal of this assignment is to:
 1. Use GitHub for version control and reproducibility.  
