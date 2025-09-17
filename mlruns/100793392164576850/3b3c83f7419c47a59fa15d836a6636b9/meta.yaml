@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ADMIN/Downloads/mlops-assignment-1/mlruns/100793392164576850/3b3c83f7419c47a59fa15d836a6636b9/artifacts
+end_time: 1758133064525
+entry_point_name: ''
+experiment_id: '100793392164576850'
+lifecycle_stage: active
+run_id: 3b3c83f7419c47a59fa15d836a6636b9
+run_name: random_forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758133063574
+status: 3
+tags: []
+user_id: ADMIN

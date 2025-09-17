@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ADMIN/Downloads/mlops-assignment-1/mlruns/100793392164576850/7a93779baa3c4fa1916afa8a98423684/artifacts
+end_time: 1758136014381
+entry_point_name: ''
+experiment_id: '100793392164576850'
+lifecycle_stage: active
+run_id: 7a93779baa3c4fa1916afa8a98423684
+run_name: svm
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758136013640
+status: 3
+tags: []
+user_id: ADMIN
